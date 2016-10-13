@@ -1,3 +1,5 @@
+{-# LANGUAGE NoImplicitPrelude, Rank2Types, FlexibleContexts, OverloadedStrings #-}
+
 module Aura.Shell where
 
 import BasicPrelude hiding (FilePath, (</>), putStr)

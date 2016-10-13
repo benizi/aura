@@ -1,6 +1,9 @@
 {-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE ViewPatterns #-}
+{-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE Rank2Types #-}
+{-# LANGUAGE QuasiQuotes #-}
 
 -- | Handles all `-A` operations
 

@@ -1,3 +1,5 @@
+{-# LANGUAGE NoImplicitPrelude, OverloadedStrings #-}
+
 {-
 
   Simplify a parsed Bash script by replacing ${...} fields

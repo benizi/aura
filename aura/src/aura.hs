@@ -1,3 +1,8 @@
+{-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE Rank2Types #-}
+{-# LANGUAGE FlexibleContexts #-}
+{-# LANGUAGE OverloadedStrings #-}
+
 {-
 
 Copyright 2012, 2013, 2014, 2015, 2016 Colin Woodbury <colingw@gmail.com>

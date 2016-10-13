@@ -1,4 +1,7 @@
 {-# LANGUAGE FlexibleContexts, ViewPatterns #-}
+{-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE Rank2Types #-}
+{-# LANGUAGE OverloadedStrings #-}
 
 -- Handles all `-C` operations.
 

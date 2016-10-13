@@ -41,11 +41,11 @@ executable aura
   ghc-options:         -Wall -O2
 
   main-is:             aura.hs
-  default-extensions:  Rank2Types
-                       FlexibleContexts
-                       OverloadedStrings
-                       NoImplicitPrelude
-                       QuasiQuotes
+--  default-extensions:  Rank2Types
+--                       FlexibleContexts
+--                       OverloadedStrings
+--                       NoImplicitPrelude
+--                       QuasiQuotes
 
   default-language:    Haskell2010
 

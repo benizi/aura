@@ -1,4 +1,6 @@
 {-# LANGUAGE FlexibleContexts, OverloadedStrings #-}
+{-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE Rank2Types #-}
 
 -- Handles all ABS related functions.
 

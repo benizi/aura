@@ -1,4 +1,4 @@
-{-# LANGUAGE GeneralizedNewtypeDeriving, TypeOperators, FlexibleContexts, Rank2Types #-}
+{-# LANGUAGE GeneralizedNewtypeDeriving, TypeOperators, FlexibleContexts, Rank2Types, NoImplicitPrelude #-}
 
 {-
 

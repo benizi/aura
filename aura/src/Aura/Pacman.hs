@@ -1,4 +1,7 @@
 {-# LANGUAGE MultiWayIf, OverloadedStrings #-}
+{-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE Rank2Types #-}
+{-# LANGUAGE FlexibleContexts #-}
 
 -- An interface to `pacman`.
 -- Takes any pacman arguments and applies it to pacman through the shell.

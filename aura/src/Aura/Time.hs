@@ -1,3 +1,5 @@
+{-# LANGUAGE QuasiQuotes, NoImplicitPrelude, OverloadedStrings #-}
+
 -- An interface to Data.Time
 
 {-

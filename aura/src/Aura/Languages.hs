@@ -1,4 +1,4 @@
-{-# LANGUAGE LambdaCase, ViewPatterns, OverloadedStrings #-}
+{-# LANGUAGE LambdaCase, ViewPatterns, OverloadedStrings, NoImplicitPrelude #-}
 
 -- Library for Aura output in different languages.
 -- All normal restrictions on line length do not apply for this file, and this file only.

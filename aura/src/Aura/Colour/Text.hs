@@ -1,3 +1,5 @@
+{-# LANGUAGE NoImplicitPrelude, OverloadedStrings #-}
+
 {-
 
 Copyright 2012, 2013, 2014 Colin Woodbury <colingw@gmail.com>

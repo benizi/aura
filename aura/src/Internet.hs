@@ -1,3 +1,5 @@
+{-# LANGUAGE NoImplicitPrelude #-}
+
 -- A library that serves as an abstraction for making HTTP requests.
 
 {-

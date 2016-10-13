@@ -1,4 +1,5 @@
-{-# LANGUAGE TypeOperators, OverloadedStrings, FlexibleContexts #-}
+{-# LANGUAGE TypeOperators, OverloadedStrings, FlexibleContexts, NoImplicitPrelude #-}
+
 -- Utility functions too general even for Aura.Utils
 
 {-
